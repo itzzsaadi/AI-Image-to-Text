@@ -41,12 +41,12 @@ This project is a full-stack AI application that extracts text from uploaded ima
 5. Open the printed Ngrok URL in your browser.
 
 **Requirements**
-Python 3.7+
-Tesseract OCR
-Ngrok (for sharing locally hosted app)
+- Python 3.7+
+- Tesseract OCR
+- Ngrok (for sharing locally hosted app)
 
 **Future Improvements**
-Save and export results
-Add language selection for multilingual OCR
-Improve UI responsiveness
-Enable multiple image uploads
+- Save and export results
+- Add language selection for multilingual OCR
+- Improve UI responsiveness
+- Enable multiple image uploads
